@@ -1,8 +1,6 @@
-*{
-    margin: 0;
-}
+
 #Portfolio{
-    margin: 10% auto;
+    margin: 10% 5%;
     background-color: lightgray;
     padding: .5em;
     display: flex;

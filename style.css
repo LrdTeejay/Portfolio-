@@ -2,10 +2,11 @@
     margin: 0;
 }
 #Portfolio{
-    margin: 10% 15%;
+    margin: 10% auto;
     background-color: lightgray;
-    padding: 1em;
+    padding: .5em;
     display: flex;
+    width: max-content; 
 }
 b{
     font-size: 1.5em;
@@ -15,7 +16,7 @@ p{
     margin-right: .5em;
 }
 img{
-    max-width: 150px;
+    max-width: 200px;
     
 }
 button{

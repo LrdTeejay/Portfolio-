@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+#Portfolio{
+    margin: 10% 15%;
+    background-color: lightgray;
+    padding: 1em;
+    display: flex;
+}
+b{
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    margin-right: .5em;
+}
+img{
+    max-width: 150px;
+    
+}
+button{
+    
+    font-weight: bolder;
+    padding: 1.5em;
+}
+a{
+    margin: 0 35%;
+    font-weight: bolder;
+    padding: 1.5em;
+}
+td{
+    padding: .9em;
+}
+th{
+    text-align: left;
+}
+table{
+    margin: 10% auto;
+}
+form{
+    margin: 10% 15%;
+    background-color: lightgray;
+    padding: 1em;
+}
+input{
+    width: 100%;
+}
+label{
+    font-weight: bolder;
+}
+.submit{
+    margin: 5% auto;
+    padding: 1em;
+}
